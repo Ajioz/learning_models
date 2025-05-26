@@ -1,6 +1,6 @@
 # Project Title
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Build Status](https://img.shields.io/your_ci_badge_url_here.svg?branch=main)](https://your_ci_link_here)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Build Status](https://github.com/Ajioz/learning_models/actions/workflows/main.yml/badge.svg?branch=main)](https://github.com/Ajioz/learning_models/actions/workflows/main.yml)
 
 A brief one or two-sentence description of what your project does.
 
